@@ -1,19 +1,29 @@
 # Collaborative Git Workflows
 
-| Key              | Value                                                                                                                                                                                                                                                        |
-|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Course Codes** | BBT 4106                                                                                                                                                                                                                     |
-| **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13)                                                                                                                                                                             |
-| **Semester**     | April to July 2026                                                                                                                                                                                                           |
-| **Lecturer**     | Allan Omondi                                                                                                                                                                                                                 |
-| **Contact**      | aomondi@strathmore.edu                                                                                                                                                                                                       |
-| **Note**         | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
+| Key | Value |
+|:---|:---|
+| **Course Codes** | BBT 4106 |
+| **Course Names** | BBT 4106: Business Intelligence I (Week 1-3 of 13) |
+| **Semester** | April to July 2026 |
+| **Lecturer** | Allan Omondi |
+| **Contact** | aomondi@strathmore.edu |
+| **Note** | The lecture contains both theory and practice.<br/>This notebook forms part of the practice.<br/>It is intended for educational purpose only.<br/>Recommended citation: [BibTex](https://raw.githubusercontent.com/course-files/Git/refs/heads/main/RecommendedCitation.bib) |
 
 ## Technology Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40"/>
 </p>
+
+## Team Members and Roles
+
+| Member | Role | Responsibility |
+|:---|:---|:---|
+| **Member 1** | Team Lead | Repository setup, branch protection, team coordination, and README management |
+| **Member 2** | Data Sources Researcher | Research and document sources of business data |
+| **Member 3** | Data Warehouse Researcher | Research and document Star Schema concepts |
+| **Member 4** | Data Pipeline Researcher | Research ETL, ELT, and EtLT approaches |
+| **Member 5** | Data Governance Researcher | Research data governance and access to PII |
 
 ## Repository Structure
 
@@ -23,8 +33,8 @@
 ├── README.md
 ├── RecommendedCitation.bib
 ├── assets
-│   └── images
-│       └── UseSSH_notHTTPS.png
+│   └── images
+│       └── UseSSH_notHTTPS.png
 ├── lab_instructions_part0.md
 ├── lab_instructions_part1.md
 └── lab_instructions_part2.md
